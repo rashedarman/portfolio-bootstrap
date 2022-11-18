@@ -2,7 +2,7 @@
 
 # Portfolio
 
-> A portfolio made with mobile-first approach
+> A portfolio made with bootstrap CSS framwork
 
 ## Built With
 
